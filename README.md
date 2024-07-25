@@ -1,4 +1,4 @@
-#ResourcesIPU
+ResourcesIPU
 GGSIPU EDC College Resources Website
 
 Overview
